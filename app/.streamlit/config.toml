@@ -1,0 +1,34 @@
+# Configuración de Streamlit para Panel de Inteligencia Sísmico
+# ==============================================================
+
+[theme]
+# Colores del tema
+primaryColor = "#667eea"
+backgroundColor = "#0e1117"
+secondaryBackgroundColor = "#1e1e1e"
+textColor = "#fafafa"
+font = "sans serif"
+
+[server]
+# Configuración del servidor
+port = 8501
+headless = false
+enableCORS = false
+enableXsrfProtection = true
+maxUploadSize = 200
+
+[browser]
+# Configuración del navegador
+gatherUsageStats = false
+serverAddress = "localhost"
+serverPort = 8501
+
+[runner]
+# Optimizaciones de rendimiento
+magicEnabled = true
+fastReruns = true
+
+[client]
+# Configuración del cliente
+showErrorDetails = true
+toolbarMode = "auto"
