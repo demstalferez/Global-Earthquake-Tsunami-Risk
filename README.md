@@ -437,15 +437,6 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 
 ---
 
-## 📞 Contacto
-
-¿Preguntas? ¿Sugerencias? ¿Colaboraciones?
-
-- 📧 Email: [tu-email@ejemplo.com]
-- 💼 LinkedIn: [Tu Perfil]
-- 🐦 Twitter: [@tuusuario]
-
----
 
 <div align="center">
 
